@@ -56,6 +56,3 @@ python Structure.py
 ## Лицензия
 
 Этот проект лицензирован под MIT License - подробности смотрите в файле [LICENSE.md](LICENSE.md).
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/126873/0704a55e-8e09-4ddd-9c33-dffe756c060c/Код проекта CodeCollector.txt
